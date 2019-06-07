@@ -11,7 +11,7 @@ Simple mesh deform and smooth in Unity.
 ![Alt text](./smooth.png?raw=true "deform")
 
 
-Resources I used:
+### Resources I used:
 ```
 https://catlikecoding.com/unity/tutorials/mesh-deformation/
 
